@@ -5,8 +5,6 @@
   <!-- Folding Slot Configuration -->
   <disable-viz v='true'/>
 
-  <power v='light'/>
-
   <!-- GUI -->
   <gui-enabled v='false'/>
 
@@ -15,12 +13,11 @@
   <user v='0o17jhgvnwr1'/>
 
   <!-- Web Server -->
-  <web-enable v='true'/>
+  <web-enable v='false'/>
 
   <!-- Folding Slots -->
   <slot id='0' type='GPU'>
     <pci-bus v='1'/>
     <pci-slot v='0'/>
   </slot>
-  <slot id='1' type='CPU'/>
 </config>
