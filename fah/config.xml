@@ -1,0 +1,26 @@
+<config>
+  <!-- Client Control -->
+  <exit-when-done v='true'/>
+
+  <!-- Folding Slot Configuration -->
+  <disable-viz v='true'/>
+
+  <power v='light'/>
+
+  <!-- GUI -->
+  <gui-enabled v='false'/>
+
+  <!-- User Information -->
+  <team v='234980'/>
+  <user v='0o17jhgvnwr1'/>
+
+  <!-- Web Server -->
+  <web-enable v='true'/>
+
+  <!-- Folding Slots -->
+  <slot id='0' type='GPU'>
+    <pci-bus v='1'/>
+    <pci-slot v='0'/>
+  </slot>
+  <slot id='1' type='CPU'/>
+</config>
